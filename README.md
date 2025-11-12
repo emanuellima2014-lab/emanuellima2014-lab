@@ -1,6 +1,6 @@
 ## Olá mundo, eu sou o Emanuel 👋
 
-## Análise de Dados <br> Auxiliae de T.I
+## Análise de Dados <br> Auxiliar de T.I
 
 Sobre mim:
 
