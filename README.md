@@ -1,4 +1,11 @@
-## Hi there 👋
+## Olá mundo, eu sou o Emanuel 👋
+
+## Análise de Dados <br> Auxiliae de T.I
+
+Sobre mim:
+
+- 👨‍💻 Atualmente trabalho na PBF Gráfica e Têxtil como Auxiliar de T.I
+- 🔎 Analista de Dados Aspirante
 
 <!--
 **emanuellima2014-lab/emanuellima2014-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
