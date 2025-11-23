@@ -28,3 +28,23 @@ Onde pode me encontrar:
     <img align="center" alt="" height="40" width="40" src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
   </a>
 </div>
+
+## 
+
+## Portfólio e Principais Projetos
+### Dashboard Acompanhamento logístico
+<img align="right" width="500"  src="">
+Projeto de Dashboard desenvolvido com Power BI para monitorar as principais KPIs de um processo logístico com ONTIME, INFULL, OTIF e relatórios financeiros de cada centro de distribuição, permitindo uma fácil análise e facilitando as tomadas de decisões das parte interessadas.
+
+Principais problemas relatados pelo cliente: 
+
+- Dificuldade de acompanhar o desempenho logístico das suas operações.
+- Dificuldade em tomar decisões baseadas em dados por não conseguirem analisar cada centro de distribuição individualmente
+- Dificuldade em obter relatórios financeiros de cada centro de distribuição
+
+<br>
+<a href="https://app.powerbi.com/view?r=eyJrIjoiMTI3MzcyZmQtMGNmMi00MDFmLTgxYjgtZWU1ZDJjZmYxMDZmIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9" target="_blank">Clique aqui</a> e acesse o a solução desenvolvida para o cliente.
+<br>
+<a href="" target="_blank">Clique aqui</a> e acesse o repositório no Github.
+
+<br><br>
